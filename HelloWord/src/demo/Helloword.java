@@ -5,6 +5,7 @@ public class Helloword {
 		System.out.println("ok");
 		System.err.println();
 		//su loi
+		System.out.println();
 	}
 
 }
